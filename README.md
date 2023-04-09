@@ -17,7 +17,10 @@ Instalar la biblioteca Pillow de Python
 ### Cómo usar el programa
    1.- Asegúrate de tener la biblioteca Pillow instalada.
 
-   2.- Ejecuta el archivo de Python en la terminal con el comando "Imagenes.py".
+   2.- Ejecuta el archivo de Python
+```bash
+  py Imagenes.py
+```
 
    3.-Ingresa la ruta de la imagen que deseas modificar cuando se solicite.
    
